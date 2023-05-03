@@ -1,0 +1,22 @@
+.color{
+
+ 
+    border: 10px solid green;
+    border-radius: 40px;
+     margin:10px ;
+     width: 40%;
+    float: left;
+    padding: 10px;
+   
+
+}
+h1{
+
+text-align: center;
+color: blue;
+
+}
+
+p{
+text-align: justify;
+}
